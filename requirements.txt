@@ -5,3 +5,4 @@ flask_login
 flask_mail
 flask_admin
 python-dotenv
+gunicorn
